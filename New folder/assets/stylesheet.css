@@ -1,0 +1,21 @@
+nav { 
+	border-bottom: 2px solid #7f8c8d;
+}
+nav li{
+	display: inline-block;
+}
+nav li a{
+	text-decoration: none;
+	color: #7f8c8d;
+	font-family: Helvetica;
+	margin: 0 auto;
+	text-align: center;
+}
+
+td img{
+	max-height: 200px;
+	max-width: 200px;
+	border-radius: 100%;
+	border-color: #fff;
+}
+table{text-align: center;}
